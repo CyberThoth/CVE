@@ -1,4 +1,4 @@
-#### Title: Library Management System with QR code Attendance 1.0 File Upload RCE
+#### Title: Library Management System with QR code Attendance_File Upload RCE
 #### Author: Ashish Kumar (https://www.linkedin.com/in/ashish-kumar-0b65a3184)
 #### Date: 27.06.2022
 #### Vendor: https://www.sourcecodester.com/users/kingbhob02
