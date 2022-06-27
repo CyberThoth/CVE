@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/kingbhob02
 #### Software: https://www.sourcecodester.com/php/15434/library-management-system-qr-code-attendance-and-auto-generate-library-card.html
 #### Version: 1.0
-#### Reference: 
+#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/File_Upload/POC.md
 #### Description：
 #### At the file upload function, the application system checks the validity of the file type, format, and content uploaded by the user, so that attackers can upload Webshell (.php, .jsp, asp, etc.) malicious script files or files in unexpected formats, such as: HTML files, SHTML files, etc., at the same time, you can use characters such as directory jump or control the upload directory to directly upload files to the Web directory or any directory, which may lead to the execution of arbitrary malicious script files on the remote server, thereby directly obtaining application system permissions.
 
@@ -80,4 +80,4 @@ Content-Type: application/octet-stream
 #### Access below URL:
 `http://localhost/LMS/card/assets/uploads/File_upload.php`
 
-image.png
+![image](https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/File_Upload/POC.png)
