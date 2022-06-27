@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/kingbhob02
 #### Software: https://www.sourcecodester.com/php/15434/library-management-system-qr-code-attendance-and-auto-generate-library-card.html
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Sql%20Injection/POC.md
 
 #### Description：
 ##### The reason for the SQL injection vulnerability is that the website application does not verify the validity of the data submitted by the user to the server (type, length, business parameter validity, etc.), and does not effectively filter the data input by the user with special characters , so that the user's input is directly brought into the database for execution, which exceeds the expected result of the original design of the SQL statement, resulting in a SQL injection vulnerability.Library Management System with QR code Attendance does not filter the content correctly at the "bookdetails" id parameter, resulting in the generation of SQL injection.
@@ -51,3 +51,6 @@ Cookie: PHPSESSID=0r78mi76ub6k55p8mkce7f4pco
 Connection: close
 ```
 
+![image](https://github.com/CyberThoth/CVE/blob/e2ae7b7a85ec722ee15a2b72add0d54dd8d0e4a2/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Sql%20Injection/1.png)
+
+![image](https://github.com/CyberThoth/CVE/blob/e2ae7b7a85ec722ee15a2b72add0d54dd8d0e4a2/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Sql%20Injection/2.png)
