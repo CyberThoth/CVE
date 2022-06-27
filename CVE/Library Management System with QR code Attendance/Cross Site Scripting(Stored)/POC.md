@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/kingbhob02
 #### Software: https://www.sourcecodester.com/php/15434/library-management-system-qr-code-attendance-and-auto-generate-library-card.html
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/File_Upload/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/POC.md
 
 #### Description：
 #### Library Management System with QR code Attendance is vulnerable to Stored cross-site scripting on the profile edit page. The "Name" parameter in 'http://localhost/LMS/admin/edit_admin_details.php' is vulnerable.
