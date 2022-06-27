@@ -53,4 +53,5 @@ Connection: close
 
 ![image](https://github.com/CyberThoth/CVE/blob/e2ae7b7a85ec722ee15a2b72add0d54dd8d0e4a2/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Sql%20Injection/1.png)
 
+#### line 111 of bookdetails.php invokes a SQL query built with input that comes from an untrusted source. This call could allow an attacker to modify the statement's meaning or to execute arbitrary SQL commands
 ![image](https://github.com/CyberThoth/CVE/blob/e2ae7b7a85ec722ee15a2b72add0d54dd8d0e4a2/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Sql%20Injection/2.png)
