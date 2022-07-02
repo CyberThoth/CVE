@@ -1,9 +1,9 @@
-#### Title: Hotel Management System 1.0 Reflected Cross-Site Scripting
+#### Title: Hotel Management System 2.0 Reflected Cross-Site Scripting
 #### Author: Ashish Kumar (https://www.linkedin.com/in/ashish-kumar-0b65a3184)
 #### Date: 03.07.2022
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-codeigniter-hotel-management-system-source-code
-#### Version: 1.0
+#### Version: 2.0
 #### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/POC.md
 
 #### Description：
