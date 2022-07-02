@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-codeigniter-hotel-management-system-source-code
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/POC.md
 
 #### Description：
 #### Hotel Management System is vulnerable to Reflected cross-site scripting on the search parameter.
@@ -43,6 +43,6 @@ Connection: close
 customer="><script>alert("XSS")</script>
 ```
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/1.png)
+![image](https://github.com/CyberThoth/CVE/blob/19d02bfc410f0a57bf3dabb23bc7f31a18e0e07f/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/1.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/2.png)
+![image](https://github.com/CyberThoth/CVE/blob/19d02bfc410f0a57bf3dabb23bc7f31a18e0e07f/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/2.png)
