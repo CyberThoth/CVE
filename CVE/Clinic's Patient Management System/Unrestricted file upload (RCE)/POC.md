@@ -1,4 +1,4 @@
-#### Title: Clinic's Patient Management System 2.0 SQLi
+#### Title: Clinic's Patient Management System 2.0 Unrestricted file upload (RCE)
 #### Author: Ashish Kumar (https://www.linkedin.com/in/ashish-kumar-0b65a3184)
 #### Date: 04.07.2022
 #### Vendor: https://www.sourcecodester.com/users/tips23
