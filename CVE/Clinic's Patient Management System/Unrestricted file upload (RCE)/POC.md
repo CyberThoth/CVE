@@ -6,7 +6,7 @@
 #### Version: 2.0
 #### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Clinic's%20Patient%20Management%20System/Unrestricted%20file%20upload%20(RCE)/POC.md
 #### Description：
-##### At the file upload function, the application system checks the validity of the file type, format, and content uploaded by the user, so that attackers can upload Webshell (.php, .jsp, asp, etc.) malicious script files or files in unexpected formats, such as: HTML files, SHTML files, etc., at the same time, you can use characters such as directory jump or control the upload directory to directly upload files to the Web directory or any directory, which lead to the execution of arbitrary malicious script files on the remote server, thereby directly obtaining application system permissions.
+##### Clinic's Patient Management System is vulnerable to unrestricted file upload. At the file upload function, the application system checks the validity of the file type, format, and content uploaded by the user, so that attackers can upload Webshell (.php, .jsp, asp, etc.) malicious script files or files in unexpected formats, such as HTML files, SHTML files, etc., at the same time, you can use characters such as directory jump or control the upload directory to directly upload files to the Web directory or any directory, which lead to the execution of arbitrary malicious script files on the remote server, thereby directly obtaining application system permissions.
 
 
 #### Payload used:
