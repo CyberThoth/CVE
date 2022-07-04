@@ -21,9 +21,12 @@ Password: = Cyberthoth;)
 
 
 ## Proof and Exploit:
+1
 ![image](https://github.com/CyberThoth/CVE/blob/5198ef2d56f9c818654bbe131c7f7e3055923f23/CVE/Clinic's%20Patient%20Management%20System/SQLi/1.png)
 
+2
 ![image](https://github.com/CyberThoth/CVE/blob/5198ef2d56f9c818654bbe131c7f7e3055923f23/CVE/Clinic's%20Patient%20Management%20System/SQLi/2.png)
 
+3
 ![image](https://github.com/CyberThoth/CVE/blob/5198ef2d56f9c818654bbe131c7f7e3055923f23/CVE/Clinic's%20Patient%20Management%20System/SQLi/3.png)
 
