@@ -7,7 +7,7 @@
 #### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Clinic's%20Patient%20Management%20System/SQLi/POC.md
 
 #### Description:
-### The id parameter appears to be vulnerable to SQL injection attacks. The payload '+(select load_file('http://localhost/pms/index.php'))+' was submitted in the id parameter. This payload injects a SQL sub-query that calls MySQL's load_file function with a UNC file path that references a URL on an external domain. The application interacted with that domain, indicating that the injected SQL query was executed. The attacker can take administrator account control and also of all accounts on this system, also the malicious user can download all information about this system.
+### It was discovered that SQL Injection techniques can be used to fool the application into authenticating without the needing valid credentials. SQL Injection vulnerabilities on login pages expose an application to unauthorized access at the administrator level, thereby severely compromising the security of the application.
 
 # Status: CRITICAL
 
