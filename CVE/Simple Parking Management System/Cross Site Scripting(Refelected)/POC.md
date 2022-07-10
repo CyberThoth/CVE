@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-codeigniter-simple-parking-management-system-source-code
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/main/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Stored)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/d18ef36d0aa5eb650bbe7dc002bd82db13b1ed42/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Refelected)/POC.md
 
 
 #### Description：
@@ -37,6 +37,6 @@ Cookie: ci_session=hrm5slo659sa0q687m87vufu1p0gcfcg
 Connection: close
 ```
 
-![image](https://github.com/CyberThoth/CVE/blob/19d02bfc410f0a57bf3dabb23bc7f31a18e0e07f/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/1.png)
+![image](https://github.com/CyberThoth/CVE/blob/d18ef36d0aa5eb650bbe7dc002bd82db13b1ed42/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Refelected)/1.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/19d02bfc410f0a57bf3dabb23bc7f31a18e0e07f/CVE/Hotel%20Management%20system/Cross%20Site%20Scripting(Refelected)/2.png)
+![image](https://github.com/CyberThoth/CVE/blob/d18ef36d0aa5eb650bbe7dc002bd82db13b1ed42/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Refelected)/2.png)
